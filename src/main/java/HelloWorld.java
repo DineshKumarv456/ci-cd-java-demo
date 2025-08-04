@@ -1,6 +1,6 @@
 public class HelloWorld {
     public String greet(String name) {
-        return "Hello, " + name + "!";
+        return "Hi, " + name + "!";
     }
 
     public static void main(String[] args) {
